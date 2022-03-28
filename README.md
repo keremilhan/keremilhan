@@ -1,11 +1,8 @@
 ### Hi there 👋 I am Kerem.
 
-# 👋 Hi, this is Raven
-
 I am currently working on Front-End Development. <br>
 And soon will be a Full-Stack Web Developer! 🎨
 
-I am heavily interested in coding. 
 
 ## 📋 Skills
 
