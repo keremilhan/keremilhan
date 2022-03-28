@@ -23,7 +23,9 @@ I am heavily interested in coding.
 |Git/Github|
 
 </td><td>
-
+<!---comment
+-->
+|--|
 |Critical Thinking|
 |Problem-Solving|
 |Team-work oriented|
