@@ -23,6 +23,7 @@ I am heavily interested in coding.
 |Git/Github|
 
 </td><td>
+  
 |Social Skills|
 |--|
 |Critical Thinking|
@@ -30,7 +31,6 @@ I am heavily interested in coding.
 |Team-work oriented|
 |Good listener and communicator|
 |Decision-making|
-
 
 </td><td>
 
