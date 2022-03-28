@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi there 👋 I am Kerem.
 
-<!--
-**keremilhan/keremilhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, this is Raven
 
-Here are some ideas to get you started:
+I am currently working on Front-End Development. <br>
+And soon will be a Full-Stack Web Developer! 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am heavily interested in coding and all the languages.
+
+## 📋 Skills
+
+<table>
+<tr><th> Development </th><th> Languages </th></tr>
+<tr><td>
+
+|Programming|
+|--|
+|Python|
+|Linux|
+|HTML/CSS|
+|Javascript|
+|SQL|
+|Git/Github|
+
+</td><td>
+
+|English|Turkish|Chinese|Dutch 
+|--|--|--|--|
+|C2|Native|A2|PREP|
+
+</td></tr> 
+</table>
+
+## 💬 Contact
+- You can personally contact me here: kerem7095@gmail.com
+- And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremilhan/)
+
+## 📑 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=keremilhan&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremilhan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
