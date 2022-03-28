@@ -23,7 +23,7 @@ I am heavily interested in coding.
 |Git/Github|
 
 </td><td>
-|<!--- -->|
+|Social Skills|
 |--|
 |Critical Thinking|
 |Problem-Solving|
