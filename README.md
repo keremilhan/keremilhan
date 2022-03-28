@@ -5,12 +5,12 @@
 I am currently working on Front-End Development. <br>
 And soon will be a Full-Stack Web Developer! 🎨
 
-I am heavily interested in coding and all the languages.
+I am heavily interested in coding. 
 
 ## 📋 Skills
 
 <table>
-<tr><th> Development </th><th> Languages </th></tr>
+<tr><th> Technical Skills </th><th> Soft Skills </th> <th> Languages </th> </tr>
 <tr><td>
 
 |Programming|
@@ -21,6 +21,15 @@ I am heavily interested in coding and all the languages.
 |Javascript|
 |SQL|
 |Git/Github|
+
+</td><td>
+
+|Critical Thinking|
+|Problem-Solving|
+|Team-work oriented|
+|Good listener and communicator|
+|Decision-making|
+
 
 </td><td>
 
