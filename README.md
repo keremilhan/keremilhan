@@ -18,8 +18,10 @@ And soon will be a Full-Stack Web Developer! 🎨
 |Javascript|
 |SQL|
 |Git/Github|
+|Bootstrap|
+|SASS/SCSS|
 |React|
-
+  
 </td><td>
   
 |Social Skills|
