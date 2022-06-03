@@ -18,6 +18,7 @@ And soon will be a Full-Stack Web Developer! 🎨
 |Javascript|
 |SQL|
 |Git/Github|
+|React|
 
 </td><td>
   
