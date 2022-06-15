@@ -7,38 +7,31 @@ And soon will be a Full-Stack Web Developer! 🎨
 ## 📋 Skills
 
 <table>
-<tr><th> Technical Skills </th><th> Soft Skills </th> <th> Languages </th> </tr>
-<tr><td>
-
-|Programming|
-|--|
-|Python|
-|Linux|
-|HTML/CSS|
-|Javascript|
-|SQL|
-|Git/Github|
-|Bootstrap|
-|SASS/SCSS|
-|React|
+<tr><th> Development </th></tr>
+<tr><td><div align="center">
   
-</td><td>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
   
-|Social Skills|
-|--|
-|Critical Thinking|
-|Problem-Solving|
-|Team-work oriented|
-|Good listener and communicator|
-|Decision-making|
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>                
 
-</td><td>
+</div></td></tr>
+<tr><th> Languages </th></tr>
+<tr><td><div align="center">
 
-|English|Turkish|Chinese|Dutch 
-|--|--|--|--|
-|C2|Native|A2|PREP|
+| English | Turkish | Dutch   | Chinese |
+|:-------:|:-------:|:-------:|:-------:|
+| C2      | Native  | A2      | PREP    |
 
-</td></tr> 
+  </div></td></tr> 
 </table>
 
 ## 💬 Contact
@@ -47,5 +40,4 @@ And soon will be a Full-Stack Web Developer! 🎨
 
 ## 📑 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=keremilhan&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremilhan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
