@@ -39,5 +39,8 @@ And soon will be a Full-Stack Web Developer! 🎨
 - And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremilhan/)
 
 ## 📑 Stats
+
+![](https://komarev.com/ghpvc/?username=keremilhan&style=for-the-badge&color=blue)
+
 <img src="https://github-readme-stats.vercel.app/api?username=keremilhan&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremilhan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
