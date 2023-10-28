@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Kerem.
 
-I am currently working on Front-End Development. <br>
-And soon will be a Full-Stack Web Developer! 🎨
-
+I am a Software Developer <br>
 
 ## 📋 Skills
 
