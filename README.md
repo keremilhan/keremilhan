@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kerem.
 
-I am a Software Developer <br>
+Software Developer <br>
 
 ## 📋 Skills
 
