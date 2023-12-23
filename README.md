@@ -25,9 +25,9 @@ Software Developer <br>
 <tr><th> Languages </th></tr>
 <tr><td><div align="center">
 
-| English | Turkish | Chinese |
+| English |  Dutch  | Turkish |
 |:-------:|:-------:|:-------:|
-|   C2    | Native  |  PREP   |
+|   C2    |    A1   |  Native |
 
   </div></td></tr> 
 </table>
