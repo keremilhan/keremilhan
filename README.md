@@ -13,7 +13,33 @@ I have 2.5 years of experience in web development but my expertise is beyond thi
 - **Database**: MongoDB, SQLite
 - **Other technical skills:** NPM, Webpack, Redux, Git, Github, GitLab,RestAPI
 - **Libraries:** Chart.js, React-charts-2
-            
+
+<br>
+
+## ⭐️ My Open Source Projects
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/@inkdev/react-range-slider">React Range Slider</a></td>
+      <td>The React Range Slider package offers a customizable and accessible range input component for React applications, simplifying the selection of values within a defined range. With features like customizable appearance, event handling, and responsive design. Whether for form validation, data filtering, or interactive charts, the React Range Slider provides a versatile solution for developers seeking to integrate range selection capabilities into their applications.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+## ⭐️ Open Source Projects that I am contributing
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/refinedev/refine"><b>Refine</b></a></td>
+      <td>The sweet spot between the low/no code and “starting from scratch” for CRUD-heavy applications.
+Refine is as an open source, React meta-framework for enterprise. It provides a headless solution for everything from admin panels to dashboards and internal tools</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <br>
 
 # Projects
