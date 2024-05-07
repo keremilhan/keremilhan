@@ -15,7 +15,6 @@ I have 2.5 years of experience in web development but my expertise is beyond thi
 - **Libraries:** Chart.js, React-charts-2
             
 <br>
-<img width="1705" alt="react-range-slider" src="https://github.com/keremilhan/keremilhan/assets/99633775/6df678ac-36bf-46b9-8a45-3652305a4c1a">
 
 # Projects
 
