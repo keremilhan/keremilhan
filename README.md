@@ -1,6 +1,6 @@
 # Kerem İlhan
 
-I have 2.5 years of experience in web development but my expertise is beyond this. I have a strong ability to learn new things. I am very flexible and solution-oriented. My commitment to staying up-to-date with the latest web technologies and best practices reflects my dedication to enhancing user experiences in my applications and delivering high quality software. <br>
+I have almost 5 years of experience in web development but my expertise is beyond this. I have a strong ability to learn new things. I am very flexible and solution-oriented. I understand the business requirements and know my role in this perspective. Throughout my career, I have always delivered high quality and problem-solver software to my customers and the customers of the companies that I worked at. <br>
 
 [My Portfolio Website](https://keremilhan-portfolio.vercel.app)
 
