@@ -57,6 +57,8 @@ Refine is as an open source, React meta-framework for enterprise. It provides a 
 |  9  | [News & <br> Announcements](https://github.com/keremilhan/news-announcements)    | [<img width="400" alt="news-app" src="https://github.com/keremilhan/keremilhan/assets/99633775/dc405413-c152-4f87-8d1b-59a02f28b177">](https://news-anouncements.netlify.app)| React <br> MUI <br> Firebase <br> Redux   | 
 |  10  | [Countries App](https://github.com/keremilhan/countries-api)    | [<img width="400" alt="countries-app" src="https://github.com/keremilhan/keremilhan/assets/99633775/3881bfc7-faae-4b3e-88c8-2971af509ff6">](https://countries-api-project-kerem.netlify.app)| React <br> Bootstrap <br> Countries API | 
 |  11  | [Movie App](https://github.com/keremilhan/movie-app)    | [<img width="400" alt="movie-app" src="https://github.com/keremilhan/keremilhan/assets/99633775/adaab87b-bc84-4685-b944-f67b7adb8109">](https://movie-app-with-reactjs.netlify.app)|  React <br> Firebase <br> Tailwind CSS <br> Local Storage <br> Redux |
+|  12  | [Django Todo App](https://github.com/keremilhan/django-todo-app)    | [<img width="400" alt="django-todo-app" src="https://github.com/keremilhan/keremilhan/assets/99633775/98e81629-72bd-44f6-84f1-51317c205273">](https://django-todo-app-zsqb.onrender.com)|  HTML <br> CSS <br> Ptyhon <br> Django <br> Postgre SQL |
+
 
 
 ## 💬 Contact
